@@ -1,4 +1,4 @@
-#🍽️ Restaurant Order Management System
+🍽️ Restaurant Order Management System
 
 A simple and intuitive web application built using Python, Streamlit, and SQLite that allows users to place food orders and admins to manage the restaurant’s menu and track customer orders.
 
